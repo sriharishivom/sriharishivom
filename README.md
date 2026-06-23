@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shree97" alt="shree97" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **BlockChain Technology**
 
 - 💬 Ask me about **Jenkins, Docker, Terraform, K8s, AWS service**
 
